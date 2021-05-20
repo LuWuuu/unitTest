@@ -1,0 +1,28 @@
+[2021-05-20 15:44:23] [info] Start Program:
+Path:"D:\\vs\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow\\vstest.console.exe"
+Arguments:C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll 
+Working directory: "C:\\Users\\Jzt\\Desktop\\CalcuSolution\\UnitTestProject\\"
+Modules: Selected: C:\Users\Jzt\Desktop\CalcuSolution\Debug\CalcuProject.exe C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll Excluded: 
+Sources: Selected: C:\Users\Jzt\Desktop\CalcuSolution\CalcuProject C:\Users\Jzt\Desktop\CalcuSolution\UnitTestProject Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Jzt\AppData\Local\Temp\3jdtryep.pn3 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-05-20 15:44:25] [info] Module: C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll is selected because it matches selected pattern: C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll
+[2021-05-20 15:44:25] [info] Module: C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll is selected because it matches selected pattern: C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll
+[2021-05-20 15:44:25] [info] Module: C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll is selected because it matches selected pattern: C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll
+[2021-05-20 15:44:26] [info] Module: C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll is selected because it matches selected pattern: C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll
+[2021-05-20 15:44:26] [info] Module: C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll is selected because it matches selected pattern: C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll
+[2021-05-20 15:44:26] [info] Module: C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll is selected because it matches selected pattern: C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll
+[2021-05-20 15:44:26] [info] Module: C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll is selected because it matches selected pattern: C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll
+[2021-05-20 15:44:26] [info] Module: C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll is selected because it matches selected pattern: C:\Users\Jzt\Desktop\CalcuSolution\Debug\UnitTestProject.dll
+[2021-05-20 15:44:26] [info] ----------------------------------------------------
+[2021-05-20 15:44:26] [info] Coverage binary generated in file: C:\Users\Jzt\AppData\Local\Temp\3jdtryep.pn3
+[2021-05-20 15:44:26] [info] ----------------------------------------------------
